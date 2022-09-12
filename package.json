@@ -1,6 +1,11 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Raul Bethencourt Gonzalez",
+	"keywords": [
+		"node",
+		"test",
+		"lerning"
+	],
 	"description": "A project that does something awesome",
 	"dependencies": {
 		"express": "^4.14.0"
